@@ -117,7 +117,7 @@ const Footer = () => {
       <Box borderTop="1px solid" py="1rem" mt="1rem" color="white">
         <Container maxW="1200px">
           <Text textAlign="end" fontSize="15px">
-            Copyright 2021 sofbox All Rights Reserved.
+            Copyright 2024 sofbox All Rights Reserved.
           </Text>
         </Container>
       </Box>
